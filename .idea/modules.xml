@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OpenGLFisrt.iml" filepath="$PROJECT_DIR$/OpenGLFisrt.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sixstar/sixstar.iml" filepath="$PROJECT_DIR$/sixstar/sixstar.iml" />
     </modules>
   </component>
 </project>
